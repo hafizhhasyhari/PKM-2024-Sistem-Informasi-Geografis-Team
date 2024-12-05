@@ -19,7 +19,28 @@ Mendukung pengelolaan sumber daya yang lebih efisien dengan pendekatan teknologi
 
 ## Alat yang Digunakan
 Aplikasi Sistem Informasi Geografis berbasis Web: Sebagai platform utama untuk visualisasi data.
-Sensor Internet of Things (IoT): Untuk pengumpulan data real-time dari berbagai wilayah.
+
+Geographic Information System (GIS),
+Spatial Data Analysis,
+Geospatial Technology,
+Remote Sensing and GIS Integration,
+Geographical Mapping Tools,
+Spatial Database Management,
+Cartography and Digital Mapping,
+GIS Applications in Urban Planning,
+3D Mapping and Visualization,
+Web-Based GIS Systems,
+Physical Geography and GIS,
+Human Geography and Spatial Data,
+Land Use and Land Cover Mapping (LULC),
+Topographic Analysis,
+Environmental Impact Assessment with GIS,
+Climate Change Mapping,
+Hydrology and Watershed Modelling,
+Biodiversity Mapping with GIS,
+Transport Geography and Network Analysis,
+Geostatistics and Spatial Modelling,
+Sensor Internet of Things (IoT): Untuk pengumpulan data real-time dari berbagai wilayah.,
 ArcGIS: Untuk pengolahan data geografis yang lebih mendalam dan presisi.
-Kesimpulan
+Kesimpulan,
 Proyek ini diharapkan mampu menjadi solusi yang inovatif dan efektif dalam pengelolaan data geografis dan demografi Indonesia. Dengan teknologi yang kami kembangkan, kami percaya dapat memberikan dampak positif bagi masyarakat dan mendukung pembangunan yang berkelanjutan di seluruh wilayah Nusantara.
